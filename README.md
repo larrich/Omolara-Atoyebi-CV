@@ -83,7 +83,7 @@
 					<li>Social Media Management</li>
 					<li>Microsoft Office Suite</li>
 					<li>Research Skills</li>
-					<li>Analytical Skills/li>
+					<li>Analytical Skills</li>
 					<li>User Interface Design</li>
 					<li>User Experience Design</li>
 					<li>Usability Research</li>
