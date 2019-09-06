@@ -89,7 +89,7 @@
 					<li>Usability Research</li>
 					<li>HTML</li>
 					<li>CSS</li>
-				</ul>
+			
 				
 		<h4 style="color:darkred">Languages</h4>	
 				<ul>
