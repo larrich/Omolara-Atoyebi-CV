@@ -122,24 +122,20 @@
 				</ul>
 			
 			<h4 style="color:darkred;">Contact Me</h4>
-			<form>
-<div class="form-group">
-<p class="oblique">Name</p> <input type="text" name="name" class="form-control" id="name" placeholder="Enter your name" minlength="4">
-<div class="validation"></div>
-</div>
-<div class="form-group">
-<p class="oblique">Email</p> <input type="email" name="email"class="form-control" id="Email" placeholder="Enter your Email address">
-
-</div>
-<div class="form-group">
-<p class="oblique">Title</p><textarea name="Title" rows="1"cols="25" placeholder="Subject"></textarea>
-</div>
-<div class="form-group">
-<p class="oblique">Message</p><textarea name="message" rows="6" cols="25" class="form-control" id="message" placeholder="Enter at least 20 characters" minlength="20" data-msg="please enter at least 20 characters"></textarea><br/>
-<div class="validation"></div>
-
-<input type="submit" value="Send"><input type="reset" value="Clear">
-</form>
+			
+<form>
+        <p class="edu"><strong>Contact Me</strong></p>
+        <div class="repo">
+            <h5>Name:</h5> <input type="text" minlength="4" name="name" value="" placeholder="Enter Fullname">
+            
+            <h5>E-mail:</h5> <input type="email" name="email" placeholder="example@email.com">
+            <h5>Title:</h5> <input type="text" name="title" placeholder="Enter Title">	
+            <span class="spar">
+                <h5>Message:</h5><textarea class="inpo" minlength="20" placeholder="Please enter your message"></textarea>
+                <button>Submit</button>
+            </span>
+        </div>
+    </form>
 
 </body>
 </div>
