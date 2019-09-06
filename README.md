@@ -91,12 +91,12 @@
 					<li>CSS</li>
 			
 				
-		<h4 style="color:darkred">Languages</h4>	
+			<h4 style="color:darkred">Languages</h4>
+				
 				<ul>
-					<li>English</li>
-				</ul>
+				<li>English</li></ul>
 					
-		<h4 style="color:darkred">Assets</h4>	
+			<h4 style="color:darkred">Assets</h4>	
 				<ul>
 					<li>Visual Content Creator</li>
 					<li>Keen Collaborator</li>
