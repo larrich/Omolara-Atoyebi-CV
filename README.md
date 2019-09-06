@@ -123,7 +123,8 @@
 			
 			<h4 style="color:darkred;">Contact Me</h4>
 			
-<form>
+<div style="width: 80%; margin:auto;">
+    <form>
         <p class="edu"><strong>Contact Me</strong></p>
         <div class="repo">
             <h5>Name:</h5> <input type="text" minlength="4" name="name" value="" placeholder="Enter Fullname">
@@ -137,7 +138,8 @@
         </div>
     </form>
 
+
 </body>
-</div>
+
 
 </html>
