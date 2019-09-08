@@ -123,7 +123,7 @@
 			
 		
           <div>
-	   <form action="contact.php" action="https://iyabz.github.io/contact-thankyou/" method="post">
+	   <form action="contact.php" action="https://larrich.github.io/contact-me/" method="post">
 			 
        
           	<h4 style="color:darkred">Contact Me</h4>
@@ -133,10 +133,10 @@
 
 			
            
-              <form id="contact-form" action="https://iyabz.github.io/contact-thankyou/" method="post">
+              <form id="contact-form" action="https://larrich.github.io/contact-me/" method="post">
                 
                
-                  <input type="hidden" name="retURL" value="https://iyabz.github.io/contact-thankyou/"/>
+                  <input type="hidden" name="retURL" value="https://larrich.github.io/contact-me/"/>
                   
                  
                   <table>
