@@ -1,6 +1,21 @@
-<html>
-	<head>
-		<meta name="description" content="Larrich's CV"/meta name>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <meta name="description"
+    content="Ibitoye Ayanfeoluwa is an innovative and analytical engineer with excellent management and leadership skills.">
+    <meta name="keywords" content="ui, ux, design, graphics, web, product, html, CSS, expert" />
+    <meta property="og:title" content="Larrich's cv" />
+    <meta property="og:image"
+    content="https://res.cloudinary.com/larrich/image/upload/v15594711226/Larrich.jpg" />
+    <meta property="og:description"
+    content="Ibitoye Ayanfeoluwa is an innovative and analytical engineer with excellent management and leadership skills." />
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
 	<title>Omolara Atoyebi's CV</title>
 	<style>
 		.body {
@@ -36,7 +51,7 @@
 		<div class="body">
 			<div class="intro">
 				<h1>Omolara Atoyebi</h1>
-				<img class="picture" width="200" height="200" src="https://res.cloudinary.com/larrich/image/upload/v15594711226/Larrich.jpg"/>
+				<img class="picture" width="200" height="200" src="https://res.cloudinary.com/larrich/image/upload/v15594711226/Larrich.jpg" alt="A picture of Lara"/>
 			</div>
 
 			<div class="position">
