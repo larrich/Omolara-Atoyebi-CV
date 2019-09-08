@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<meta name=”description” content="Larrich's CV">
+		<meta name=”description” content="Larrich's CV"/meta name>
 	<title>Omolara Atoyebi's CV</title>
 	<style>
 		.body {
