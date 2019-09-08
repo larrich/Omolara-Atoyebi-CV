@@ -121,20 +121,58 @@
 					<li>Instagram: <a href="https://www.instagram.com/lariegurl/">https://www.instagram.com/lariegurl/</a></li>
 				</ul>
 			
-			<h4 style="color:darkred;">Contact Me</h4>
+		
+          <div>
+	   <form action="contact.php" action="https://iyabz.github.io/contact-thankyou/" method="post">
+			 
+       
+          	<h4 style="color:darkred">Contact Me</h4>
+            <p class="ti-body" style="margin-left: -17px; text-align: left;">
 			
-<div style="width: 80%; margin:auto;">
-    <form>
-        
-        <div class="repo">
-            <h5>Name:</h5> <input type="text" minlength="4" name="name" value="" placeholder="Enter Fullname">
-            
-            <h5>E-mail:</h5> <input type="email" name="email" placeholder="example@email.com">
-            <h5>Title:</h5> <input type="text" name="title" placeholder="Enter Title">	
-            <span class="spar">
-                <h5>Message:</h5><textarea class="inpo" minlength="20" placeholder="Please enter your message"></textarea>
-                <button>Submit</button>
-            </span>
-        </div>
-    </form>
+			
+
+			
+           
+              <form id="contact-form" action="https://iyabz.github.io/contact-thankyou/" method="post">
+                
+               
+                  <input type="hidden" name="retURL" value="https://iyabz.github.io/contact-thankyou/"/>
+                  
+                 
+                  <table>
+                    <tbody>
+                      <tr>
+                        
+                          <label for="name">*Name</label><br><br>
+                          <input id="name" maxlength="80" name="visitor_name" size="20" type="text" placeholder="Enter your Name" /><br><br>
+                        
+                        <label for="email">*Email</label><br><br>
+                          <input id="email" maxlength="80" name="email" size="20" type="email" placeholder="Enter your Email" required/><br><br>
+                       
+						
+						
+                          <label for="title">*Title</label><br><br>
+                          <input id="text" maxlength="80" name="title" size="20" type="text" placeholder="Subject" required/><br><br>
+                       
+                      
+                      
+
+                    
+                        <label for="description">*Description</label> <br><br>
+                          <textarea id="message" name="description"  placeholder="Type a message..."
+                            required></textarea>
+                 
+
+                      </tr>
+
+
+                    </tbody>
+                  </table>
+                  <input type="submit" value="Submit" id="submit-button"/>
+          
+              </form>
+
+
+
+
 
