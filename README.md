@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
     <meta name="description"
-    content="Ibitoye Ayanfeoluwa is an innovative and analytical engineer with excellent management and leadership skills.">
+    content="Atoyebi Omolara is a young and enthusiastic graduate of Mass Communication who has dedicated herself to
+				knowledge growth and real world of work experience. Currently into web development with skills in HTML and CSS.">
     <meta name="keywords" content="ui, ux, design, graphics, web, product, html, CSS, expert" />
     <meta property="og:title" content="Larrich's cv" />
     <meta property="og:image"
